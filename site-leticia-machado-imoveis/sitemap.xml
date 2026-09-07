@@ -40,4 +40,9 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <url>
+    <loc>https://site-leticia-machado-imoveis.vercel.app/blog/independencia-financeira-casa-propria-mogi-das-cruzes.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
