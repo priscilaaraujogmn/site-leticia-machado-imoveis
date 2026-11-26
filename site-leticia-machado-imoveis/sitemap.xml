@@ -85,4 +85,9 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://site-leticia-machado-imoveis.vercel.app/blog/alugar-ou-comprar-imovel-mogi-das-cruzes.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>

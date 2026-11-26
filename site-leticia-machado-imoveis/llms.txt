@@ -12,6 +12,7 @@ Imobiliária e corretora de imóveis em Mogi das Cruzes - SP, com foco na venda 
 ## Páginas
 
 - [Corretora de Imóveis em Mogi das Cruzes | Letícia Machado Imóveis](https://site-leticia-machado-imoveis.vercel.app/)
+- [Alugar ou comprar imóvel em Mogi das Cruzes: como decidir com calma | Letícia Machado Imóveis](https://site-leticia-machado-imoveis.vercel.app/blog/alugar-ou-comprar-imovel-mogi-das-cruzes.html)
 - [Blog | Letícia Machado Imóveis - Mogi das Cruzes](https://site-leticia-machado-imoveis.vercel.app/blog/)
 - [Bairros mais procurados para comprar apartamento em Mogi das Cruzes | Letícia Machado Imóveis](https://site-leticia-machado-imoveis.vercel.app/blog/bairros-para-comprar-apartamento-mogi-das-cruzes.html)
 - [Casa ou apartamento em Mogi das Cruzes: qual combina mais com o seu momento de vida? | Letícia Machado Imóveis](https://site-leticia-machado-imoveis.vercel.app/blog/casa-ou-apartamento-em-mogi-das-cruzes.html)
